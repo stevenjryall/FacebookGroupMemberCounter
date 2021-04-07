@@ -61,7 +61,7 @@ Now I had the hardware ready, I had to setup the Facebook Graph API. It's pretty
 
 . Head over to Facebook Graph via Tools > Graph API Explorer.
 
-<img src="https://github.com/stevenjryall/FacebookGroupMemberCounter/blob/main/group_member_counter_images/tools_to_graph.png" width="350" title="hover text">
+<img src="https://github.com/stevenjryall/FacebookGroupMemberCounter/blob/main/group_member_counter_images/tools_to_graph.jpeg" width="350" title="hover text">
 
 . On the right you'll see various options. You want to set 'Facebook App' as the App you've just created, 'User or page' as 'User token', and create a Permission called 'groups_access_member_info'. Perhaps alternate configurations would also work but this is just how I have it setup. 
 
