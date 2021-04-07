@@ -16,7 +16,5 @@ Updates needed:
 
 . A menu system utilising buttons to view different data (maybe from different groups?)
 and toggle debug mode!
-
 . A screensaver since OLED screens can suffer from burn-in
-
 . Create a server/AP so the user can connect and change credentials from their phone 
