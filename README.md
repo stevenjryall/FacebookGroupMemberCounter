@@ -61,9 +61,9 @@ Now I had the hardware ready, I had to setup the Facebook Graph API. It's pretty
 
 . Head over to Facebook Graph via Tools > Graph API Explorer.
 
-<img src="https://github.com/stevenjryall/FacebookGroupMemberCounter/blob/main/group_member_counter_images/tools_to_graph.jpeg" width="350" title="hover text">
-
 . On the right you'll see various options. You want to set 'Facebook App' as the App you've just created, 'User or page' as 'User token', and create a Permission called 'groups_access_member_info'. Perhaps alternate configurations would also work but this is just how I have it setup. 
+
+<img src="https://github.com/stevenjryall/FacebookGroupMemberCounter/blob/main/group_member_counter_images/tools_to_graph.jpeg" width="350" title="hover text">
 
 . Hit 'Generate access token' and it will produce one in the box. This is the access token you need to put in the URL in the code where it says 'YOUR-ACCESS-TOKEN'. This token is a 'short lived' token and will only work for one hour. If you'd like one that works for longer, Facebook will extend it to a couple months if you head over to Tools > Access Token Debugger, paste in your new token, press 'Debug' and scroll until you see 'Extend Acess Token'. Hit that and it should extend it for two months! Be prepared to have to re-fresh this token after the alloted time though...
 
