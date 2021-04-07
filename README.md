@@ -1,8 +1,6 @@
 # FacebookGroupMemberCounter
 
-<p align="center">
-  <img src="https://github.com/stevenjryall/FacebookGroupMemberCounter/blob/main/ftijpi_member_counter.jpeg" width="350" title="hover text">
-</p>
+<img src="https://github.com/stevenjryall/FacebookGroupMemberCounter/blob/main/ftijpi_member_counter.jpeg" width="350" title="hover text">
 
 This program is built specifically to query the number of members in a group
 from Facebook using the 'Facebook Graph' API. It will only send over the
