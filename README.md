@@ -100,3 +100,5 @@ If you see Googles dinosaur after you've uploaded, you know it's worked! ;)
 # Thanks!
 
 A special thanks to all FTIJPI members from the FTIJPI team on Facebook for hanging out, creating a great community with us and sharing your amazing work. You all inspire me everyday to learn and create! 
+
+Check us out if you aren't a member already: "https://www.facebook.com/groups/444164956225496" :) 
