@@ -10,7 +10,7 @@ of the group in question (as far as I'm aware, at the time of writing).
 Credit goes to "sjsd" over at "https://www.instructables.com/Facebook-Fan-Count/" 
 for the original code! I simply tweaked it for my needs & spruced it up for the 
 FTIJPI community! His process of doing this is expired now since Facebook
-changed it's API's and Developer App setup...
+changed it's API's and Developer App setup, so this instructional guide should serve as an updated method!
 
 Updates needed:
 
